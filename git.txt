@@ -1,0 +1,8 @@
+Команди
+git init
+git status
+git add .
+git config --global user.email "forumfor@ukr.net"
+git config --global user.name "Andriy"
+git checkout -b  (створюєм назву нової гілки)
+git branch (перегляд гілок)
